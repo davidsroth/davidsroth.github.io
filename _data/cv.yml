@@ -1,21 +1,23 @@
-- title: General Information
+- title: Skills
   type: map
   contents:
-    - name: Name
-      value: David Roth
     - name: Languages
-      value: Python, Scala, SQL, Go
+      value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr)
+    - name: ML/Data Science 
+      value: NumPy, Pandas, Tensorflow, PyTorch
+    - name: Data Engineering
+      value: Apache Beam, Dataflow, Airflow, Spark, Kafka
 
 - title: Education
   type: time_table
   contents:
-    - title: MS, Data Science 
+    - title: M.S, Data Science 
       institution: NYU Center for Data Science
       year: 2021 - 2023
-    - title: Bachelor of Arts, Computer Science
+    - title: B.A, Computer Science
       institution: NYU Courant School of Mathematical Sciences
       year: 2014 - 2018
-    - title: Bachelor of Science, Statistics
+    - title: B.S, Statistics
       institution: NYU Leonard Stern School of Business
       year: 2014 - 2018
 
@@ -24,14 +26,8 @@
   contents:
     - title: Data Scientist
       institution: Spotify, Publishing Solutions
-      year: 1933 - 1955
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      year: 2022
+      
     - title: Associate Data Scientist, NLP
       institution: KPMG Data & Analytics
       year: 2019-2021
@@ -62,21 +58,21 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
     - Musician (writer, performer, producer)
     - Bouldering
-    - Crosswords
+    - NYT Crossword
