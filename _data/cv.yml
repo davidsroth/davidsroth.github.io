@@ -40,8 +40,6 @@
 - title: Skills
   type: map
   contents:
-    - name: Name
-      value: David Roth
     - name: Languages
       value: Python (10 yrs), SQL (6 yrs), Java (2 yrs) Scala (1 yr), C++ (<1 yr)
     - name: ML/Data Science 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Conversational Speech Transcription using Hidden Unit BERT
-description: Experiments in using features from language-acoustic pretraining for end-to-end transcription of conversational and disfluent speech. 
-img: assets/img/hubert.png
-importance: 2
+title: End-to-End Fluent Speech Transcription using Hidden Unit BERT
+description: Using raw audio and pretrained encoders for robust, end-to-end speech transcription. 
+img: assets/img/12.jpg
+importance: 1
 category: work
 github: https://github.com/davidsroth/hubert-disfl
 pdf: HuBERT_Disfluency.pdf
