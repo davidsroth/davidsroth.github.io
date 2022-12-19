@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  Data Scientist with Spotify's Publishing Solutions group and M.S student at NYU's Center for Data Science.
+  MS Student at NYU Center for Data Science. Interested in bringing good ideas from representation learning over images, audio, text and graphs to production scale.
 
 profile:
   align: left

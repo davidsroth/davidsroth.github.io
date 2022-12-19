@@ -4,10 +4,10 @@
 
 title: David Roth # the website title (if blank, full name will be used instead)
 first_name: David
-middle_name: S.
+middle_name:
 last_name: Roth
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Data Scientist at Spotify with the Publishing Solutions group, M.S student at NYU's Center for Data Science
+  MS Student at NYU CDS. Interested in taking good ideas from representation learning over text, images, audio and graphs to production scale.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,7 +18,7 @@ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name
 
 url: https://davidsroth.github.io/ # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -46,7 +46,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -65,10 +65,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: davidsroth
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: david-s-roth
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
