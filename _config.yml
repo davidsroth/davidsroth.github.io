@@ -5,6 +5,7 @@
 title: David Roth # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name:
+middle_name:
 last_name: Roth
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   MS Student at NYU CDS. Interested in taking good ideas from representation learning over text, images, audio and graphs to production scale.
