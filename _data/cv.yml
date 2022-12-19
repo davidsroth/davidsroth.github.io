@@ -1,14 +1,51 @@
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Scientist (Part-Time)
+      institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
+      year: 2022
+      description:
+        - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
+
+    - title: Capstone Researcher (Internship)
+      institution: Zillow
+      year: 2022
+      description:
+        - Evaluated methods for scalable inductive representation learning over large, sparsely connected multi-modal graph data.
+    
+    - title: Machine Learning Engineering Intern
+      institution: Spotify, Content Intelligence
+      year: 2022
+      description:
+        - Wrote featurization code to perform text vectorization and measure cosine-similarity on 30M+ daily records using PyBeam/Luigi.
+
+    - title: Data Science Intern
+      institution: Spotify, Publishing Solutions
+      year: 2022
+      description:
+        - Assessed error rates on lyric metadata across languages and markets. Designed and oversaw annotation trial to evaluate quality control approaches.
+      
+    - title: Associate Data Scientist, NLP
+      institution: KPMG Data & Analytics
+      year: 2019-2021
+      description:
+        - Health Insurance Client- Wrote data pipeline to compute cohort statistics for diverse demographic subsets of claims data and provide visualizations for analyst-facing dashboards. 
+        - Financial Services Client- Data Engineer on greenfield credit card offering at major NYC financial institution. Worked on small, agile team to rapidly build and scale fault-resistant data processing pipeline capable of handling 5+ million daily transactions using Airflow, PySpark and BigTable.
+        - GDPR NLP-  Leveraged RoBERTa embeddings to improve semantic search over regulatory documentation related to the EU’s General Data Protection Regulation laws.
+    - title: Machine Learning Intern, NLP
+      institution: KPMG Data & Analytics
+      year: 2018
+      description:
+        - Built feature generation pipeline to perform cleaning, tokenizing and part-of-speech tagging over text data.
 - title: Skills
   type: map
   contents:
-    - name: Name
-      value: David Roth
     - name: Languages
       value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr)
     - name: ML/Data Science 
-      value: NumPy, Pandas, Tensorflow, PyTorch
+      value: PyTorch, Tensorflow, Deep Graph Library, NumPy, Dask, huggingface
     - name: Data Engineering
-      value: Apache Beam, Dataflow, Airflow, Spark, Kafka
+      value: Apache Beam, Dataflow, Airflow, Spark, Luigi
 
 - title: Education
   type: time_table
@@ -23,23 +60,7 @@
       institution: NYU Leonard Stern School of Business
       year: 2014 - 2018
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Data Scientist
-      institution: Spotify, Publishing Solutions
-      year: 2022
-      
-    - title: Associate Data Scientist, NLP
-      institution: KPMG Data & Analytics
-      year: 2019-2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
-    - title: Machine Learning Intern, NLP
-      institution: KPMG Data & Analytics
-      year: 2018
 
 
 # - title: Open Source Projects
