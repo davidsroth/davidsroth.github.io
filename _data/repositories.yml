@@ -3,5 +3,4 @@ github_users:
 
 github_repos:
   - davidsroth/hubert-disfl
-  - davidsroth/SFD_pytorch
   - djangoUnUnSharded/django-sharded

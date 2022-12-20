@@ -1,6 +1,6 @@
 ---
 layout: page
-title: End-to-End Fluent Speech Transcription using Hidden Unit BERT
+title: Conversational Speech Transcription using Hidden Unit BERT
 description: Using raw audio and pretrained encoders for robust, end-to-end speech transcription. 
 img: assets/img/hubert.png
 importance: 1

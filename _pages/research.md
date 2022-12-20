@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: research
+permalink: /research/
 description: 
 nav: true
 nav_order: 2
@@ -49,9 +49,11 @@ horizontal: false
   </div>
   {%- else -%}
   <div class="grid">
+  <ul>
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
+  </ul>
   </div>
   {%- endif -%}
 {%- endif -%}
