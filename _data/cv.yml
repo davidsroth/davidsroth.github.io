@@ -43,20 +43,20 @@
     - name: Languages
       value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr)
     - name: ML/Data Science 
-      value: PyTorch, Tensorflow, Deep Graph Library, PyG, NumPy, Dask, huggingface
+      value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas, Dask, huggingface
     - name: Data Engineering
       value: Beam, Dataflow, Airflow, Spark, Luigi
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S, Data Science 
+    - title: M.S Data Science 
       institution: NYU Center for Data Science
       year: 2021 - 2023
-    - title: B.A, Computer Science
+    - title: B.A Computer Science
       institution: NYU Courant School of Mathematical Sciences
       year: 2014 - 2018
-    - title: B.S, Statistics
+    - title: B.S Statistics
       institution: NYU Leonard Stern School of Business
       year: 2014 - 2018
 
