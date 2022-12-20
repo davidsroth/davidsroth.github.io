@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm currently a second-year student at NYU completing a masters' degree in Data Science, focusing on multi-modal and constrative representation learning over text, images and graphs.
 
-Here you can find some [research]({% link _pages/research.md %}) I've contributed to, personal [projects]({% link _pages/projects.md %}) I've worked on, music I've made and view my CV.
+Here you can find some [research]({% link _pages/research.md %}) I've contributed to, personal [projects]({% link _pages/projects.md %}) I've worked on, [music]({% link _pages/music.md %}) I've made and view my [CV]({% link _pages/cv.md %}).
 
 The best way to reach me is via email at [davidroth6@gmail.com](mailto:davidroth6@gmail.com).
