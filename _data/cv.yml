@@ -43,9 +43,9 @@
     - name: Languages
       value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr)
     - name: ML/Data Science 
-      value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas, Dask, huggingface
+      value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas, huggingface
     - name: Data Engineering
-      value: Beam, Dataflow, Airflow, Spark, Luigi
+      value: Beam, Dataflow, Airflow, Spark, Luigi, Dask
 
 - title: Education
   type: time_table
