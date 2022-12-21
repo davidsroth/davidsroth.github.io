@@ -93,14 +93,15 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 5em;
+  // margin: 0 auto;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
     }
   }
@@ -114,6 +115,8 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
+    margin-left: 1rem;
+    margin-right: 1rem;
     width: 25%;
     .address {
       p { display: block; }
@@ -633,6 +636,11 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+i.fa-brands{ 
+  font-family: FontAwesome!important;
+  font-style: inherit;
 }
 
 // Extra Markdown style (post Customization)
