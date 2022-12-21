@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Modal Inductive Graph Learning with Zillow
-description: Learning listing representations using GraphSAGE and CLIP priors.
+description: Learning connections in large, multimodal graphs (text+image) using GraphSAGE with CLIP priors.
 img: assets/img/GraphSAGE_Model_Diagram.png
 importance: 1
 category: work
