@@ -94,7 +94,8 @@ blockquote {
 
 .profile {
   width: 5em;
-  // margin: 0 auto;
+  margin-top: 0;
+  margin: 0 auto;
 
   .address {
     margin-bottom: 5px;
@@ -117,9 +118,13 @@ blockquote {
   .profile {
     margin-left: 1rem;
     margin-right: 1rem;
-    width: 25%;
+    width: 10em;
+    text-align: center;
     .address {
-      p { display: block; }
+      p { 
+        display: block; 
+        margin: 0 auto;
+      }
     }
   }
 }
