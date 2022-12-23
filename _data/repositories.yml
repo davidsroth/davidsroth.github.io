@@ -3,4 +3,5 @@ github_users:
 
 github_repos:
   - davidsroth/hubert-disfl
+  - davidsroth/moviegraph
   - djangoUnUnSharded/django-sharded
