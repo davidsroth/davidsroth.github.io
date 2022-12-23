@@ -4,7 +4,7 @@
 
 title: David Roth # the website title (if blank, full name will be used instead)
 first_name: David
-middle_name:
+middle_name: S.
 last_name: Roth
 description: >
   MS Student at NYU CDS. Interested in taking good ideas from representation learning over text, images, audio and graphs to production scale.
