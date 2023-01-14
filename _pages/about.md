@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello! Welcome to my page :wave:
 
-I'm a second-year student at NYU completing a masters' degree in Data Science, focusing on multi-modal and contrastive representation learning over text, images and graphs.
+I'm a second-year graduate student at NYU completing a masters' degree in Data Science, focusing on multi-modal and contrastive representation learning over text, images and graphs.
 
 Here you can find some [research]({% link _pages/research.md %}) I've contributed to, personal [projects]({% link _pages/projects.md %}) I've worked on, [music]({% link _pages/music.md %}) I've recorded and view my [CV]({% link _pages/cv.md %}).
