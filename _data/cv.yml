@@ -41,7 +41,7 @@
   type: map
   contents:
     - name: Languages
-      value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr)
+      value: Python (9 yrs), SQL (6 yrs), Javascript (2 yrs), Scala (1 yr), C++ (<1 yr)
     - name: ML/Data Science 
       value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas, huggingface
     - name: Data Engineering
