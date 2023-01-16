@@ -1,11 +1,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist (Part-Time)
-      institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
-      year: 2022
-      description:
-        - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
+    # - title: Data Scientist (Part-Time)
+    #   institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
+    #   year: 2022
+    #   description:
+    #     - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
 
     - title: Capstone Researcher (Internship)
       institution: Zillow, Applied Science and Machine Learning
@@ -17,7 +17,7 @@
       institution: Spotify, Content Intelligence
       year: 2022
       description:
-        - Wrote featurization code to perform text vectorization and measure cosine-similarity on 30M+ daily records using PyBeam/Luigi.
+        - Wrote featurization code to perform text vectorization and measure cosine-similarity on 30M+ daily records using TFX/PyBeam/Luigi.
 
     - title: Data Science Intern
       institution: Spotify, Publishing Solutions
