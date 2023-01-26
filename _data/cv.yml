@@ -1,11 +1,11 @@
 - title: Experience
   type: time_table
   contents:
-    # - title: Data Scientist (Part-Time)
-    #   institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
-    #   year: 2022
-    #   description:
-    #     - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
+    - title: Data Scientist (Part-Time)
+      institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
+      year: 2022
+      description:
+        - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
 
     - title: Capstone Researcher (Internship)
       institution: Zillow, Applied Science and Machine Learning
@@ -31,7 +31,7 @@
       description:
         - Health Insurance Client- Wrote data pipeline to compute cohort statistics for diverse demographic subsets of claims data and provide visualizations for analyst-facing dashboards. 
         - Financial Services Client- Data Engineer on greenfield credit card offering at major NYC financial institution. Worked on small, agile team to rapidly build and scale fault-resistant data processing pipeline capable of handling 5+ million daily transactions using Airflow, PySpark and BigTable.
-        - GDPR NLP-  Leveraged RoBERTa embeddings to improve semantic search over regulatory documentation related to the EU’s General Data Protection Regulation laws.
+        - GDPR NLP-  Leveraged RoBERTa embeddings to improve recall by 8% on semantic search over regulatory documentation related to the EU’s General Data Protection Regulation laws.
     - title: Machine Learning Intern, NLP
       institution: KPMG Data & Analytics
       year: 2018
@@ -41,7 +41,7 @@
   type: map
   contents:
     - name: Languages
-      value: Python (9 yrs), SQL (6 yrs), Scala (1 yr), C++ (<1 yr), Elixir (<1 yr)
+      value: Python (10 yrs), SQL (6 yrs), Scala (1 yr), C++ (<1 yr), Elixir (<1 yr)
     - name: ML/Data Science 
       value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas
     - name: Data Engineering
