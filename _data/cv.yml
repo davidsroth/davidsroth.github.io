@@ -1,29 +1,29 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist (Part-Time)
+    - title: Data Scientist I (Part-Time)
       institution: Spotify, Publishing Solutions | Deal Operations & Deal Insights
       year: 2022
       description:
-        - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial.
+        - Delivered usage analytics and case-studies for partners in publishing, licensing and editorial on the effects of inclusion in editorial playlists on global audience growth. Work consisted of open-ended dataset exploration, self-guided analysis and visualization design. A focus on building repeatable analyses resulted in the re-use of datasets and methods on subsequent projects, several of which are still in use today
 
     - title: Capstone Researcher (Internship)
       institution: Zillow, Applied Science and Machine Learning
       year: 2022
       description:
-        - Evaluated methods for scalable inductive representation learning over large, sparsely connected multi-modal graph data.
+        - Evaluated methods for scalable inductive representation learning over large, sparsely connected multi-modal graph data. Wrote scalable training, evaluation and experiment tracking pipeline to learn neighborhood aggregation functions used for link prediction using Deep Graph Library, Ray Train and PyTorch Lightning.
     
-    - title: Machine Learning Engineering Intern
-      institution: Spotify, Content Intelligence
+    - title: Data Science / Machine Learning Engineering Intern
+      institution: Spotify
       year: 2022
       description:
-        - Wrote featurization code to perform text vectorization and measure cosine-similarity on 30M+ daily records using TFX/PyBeam/Luigi.
+        - Built large-scale entity disambiguation pipeline to connect recordings to registered musical works using TensorFlow/Beam/Luigi. Work included performing text vectorization and measuring cosine-similarity on 30M+ daily records and running distributed XGBoost model using a combination of learned and hand-crafted features.
 
     - title: Data Science Intern
       institution: Spotify, Publishing Solutions
       year: 2022
       description:
-        - Assessed error rates on lyric metadata across languages and markets. Designed and oversaw annotation trial to evaluate quality control approaches.
+        - Assessed error rates on lyric content across languages and markets. Designed and oversaw annotation trial to evaluate quality control approaches, resulting in a reduction of erroneous lyric assignments on instrumental tracks.
       
     - title: Associate Data Scientist, NLP
       institution: KPMG Data & Analytics
@@ -41,11 +41,11 @@
   type: map
   contents:
     - name: Languages
-      value: Python (10 yrs), SQL (6 yrs), Scala (1 yr), C++ (<1 yr), Elixir (<1 yr)
+      value: Python (10 yrs), SQL (6 yrs), Java (2 yrs) Scala (1 yr), C++ (<1 yr)
     - name: ML/Data Science 
-      value: PyTorch, Tensorflow, DGL, PyG, NumPy, Pandas
+      value: PyTorch, Tensorflow, DeepGraphLibrary, PyTorch-Geometric, NumPy, Pandas
     - name: Data Engineering
-      value: Beam, Dataflow, Airflow, Spark, Luigi, Dask
+      value: Beam/Dataflow, Airflow, Spark, Luigi, Dask
 
 - title: Education
   type: time_table
