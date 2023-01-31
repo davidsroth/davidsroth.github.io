@@ -2,9 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-  MS Student at NYU Center for Data Science. Interested in bringing good ideas from representation learning over images, audio, text and graphs to production scale.
-
 profile:
   align: left
   image: prof_pic.jpg
