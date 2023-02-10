@@ -21,4 +21,5 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
     gem 'liquid'
+    gem 'jekyll-seo-tag'
 end
