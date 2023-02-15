@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: David Roth # the website title (if blank, full name will be used instead)
+title: David Samuel Roth # the website title (if blank, full name will be used instead)
 first_name: David
-middle_name:
+middle_name: Samuel
 last_name: Roth
 description: >
   MS Student at NYU CDS. Interested in taking good ideas from representation learning over text, images, audio and graphs to production scale.
@@ -16,7 +16,7 @@ keywords: data scientist, data science, machine learning engineer, data scientis
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://davidsroth.github.io/ # the base hostname & protocol for your site
+url: https://davidroth.me # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -106,7 +106,7 @@ contact_note: >
 google_analytics:  G-NVK99L9SYJ # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: TeezboYISqyDoyq5GVD_6khRcI9K5ewNG9r5YXZ6BHY # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
