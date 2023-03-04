@@ -73,6 +73,9 @@
             {%- if site.spotify_id -%}
             <a href="https://open.spotify.com/artist/{{ site.spotify_id }}" title="Spotify"><i class="fab fa-spotify"></i></a>
             {% endif %}
+            {%- if site.soundcloud_id -%}
+            <a href="https://soundcloud.com/{{ site.soundcloud_id }}" title="Soundcloud"><i class="fab fa-soundcloud"></i></a>
+            {% endif %}
             {%- if site.pinterest_id -%}
             <a href="https://www.pinterest.com/{{ site.pinterest_id }}" title="Pinterest"><i class="fab fa-pinterest"></i></a>
             {% endif %}
