@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello! Welcome to my page :wave:
 
-I'm a Data Scientist and Machine Learning Engineer based out of Brooklyn, NY. I recently completed a masters' degree at NYU in Data Science and I'm looking for full time work designing, building and analyzing large-scale ML systems.
+I'm a Data Scientist and Machine Learning Engineer based out of Brooklyn, NY. 
 
-Here you can find some [research]({% link _pages/research.md %}) I've contributed to, personal [projects]({% link _pages/projects.md %}) I've worked on, [music]({% link _pages/music.md %}) I've recorded and view my [CV]({% link _pages/cv.md %}).
+I recently completed a masters' degree at NYU in Data Science and I'm looking for full time work designing, building and analyzing large-scale ML systems. Here you can find some [research]({% link _pages/research.md %}) I've contributed to, personal [projects]({% link _pages/projects.md %}) I've worked on, [music]({% link _pages/music.md %}) I've recorded and view my [CV]({% link _pages/cv.md %}).
